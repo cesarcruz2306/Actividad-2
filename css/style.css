@@ -207,7 +207,7 @@ div {
 	height: 115px;
 	z-index: 10;
 	left: 272px;
-	top: 745px;
+	top: 1000px;
 }
         #apDiv22 {	position: absolute;
 	width: 200px;
@@ -327,7 +327,7 @@ li{
 	margin-top: 7px;
 }
 section{
-	width: 1200px;
+	width: 713px;
 	background: white;
 	height: 720px;
 	float: left;
